@@ -9,8 +9,8 @@ It investigates methods to improve **Turkish-to-English neural machine translati
 ## 📁 Project Structure
 
 - `cmpe58t_application_project.py` — Main training, preprocessing, and evaluation script
-- `data/` — Folder for input datasets (not uploaded)
-- `outputs/` — Folder for predictions and evaluation results (created at runtime)
+- `data/` — Folder for input datasets
+- `outputs/` — Folder for predictions and evaluation results (not yet added)
 
 ---
 
